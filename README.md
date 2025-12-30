@@ -18,3 +18,6 @@ This repository documents a real-world phishing campaign abusing Google AppSheet
 - LinkedIn: https://www.linkedin.com/in/lu3ky13/
 
 Responsible disclosure welcomed.
+
+Published
+# https://ahmadaabdulla.medium.com/facebook-credential-phishing-campaign-delivered-via-gmail-infrastructure-2cea917c3aea?postPublishedType=initial
